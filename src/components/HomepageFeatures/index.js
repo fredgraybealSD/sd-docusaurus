@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_wordpress_utxt.svg').default,
     description: (
       <>
-       WordPress empowers you to build and manage your website with ease, offering customizable themes and plugins for endless possibilities.
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .
       </>
     ),
   },
@@ -17,8 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_browser_stats_re_j7wy.svg').default,
     description: (
       <>
-       Our comprehensive communications strategy encompasses 
-       a range of services designed to elevate your brand and manage your reputation.
+       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
       </>
     ),
   },
@@ -27,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_website_builder_re_ii6e.svg').default,
     description: (
       <>
-        Our web design and development services craft stunning, high-performing websites tailored to your brand and audience.
+       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
       </>
     ),
   },
