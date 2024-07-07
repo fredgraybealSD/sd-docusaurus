@@ -1,8 +1,0 @@
-{
-  "label": "Baseline Assessment",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Google Lighthouse provides a baseline assessment, this assessment audits site pages and offers a comprehensive report. Those core audits include:"
-  }
-}
