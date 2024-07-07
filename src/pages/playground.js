@@ -14,7 +14,7 @@ export default function Playground() {
 	}, []);
 
 	const themeZipUrl =
-		'https://raw.githubusercontent.com/infinum/eightshift-docs/main/playground-files/es-wp-playground.zip';
+		'https://raw.githubusercontent.com/SD-performance/sd-site-performance/playground-files/wordpress-playground.zip';
 
 	return (
 		<Layout
