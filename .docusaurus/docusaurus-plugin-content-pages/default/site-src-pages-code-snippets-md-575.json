@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/sd-docusaurus/code-snippets",
+  "source": "@site/src/pages/code-snippets.md",
+  "description": "PHP",
+  "frontMatter": {},
+  "unlisted": false
+}
