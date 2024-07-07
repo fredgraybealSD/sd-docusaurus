@@ -6,58 +6,58 @@
 
 /* You can override the default Infima variables here. */
 :root {
-    --ifm-color-primary: #eb2c77;
-    --ifm-code-font-size: 95%;
-  }
-  
-  /* For readability concerns, you should choose a lighter palette in dark mode. */
-  [data-theme='dark'] {
-    --ifm-color-primary: #e81668;
-    --ifm-color-primary-dark: #d1145e;
-    --ifm-color-primary-darker: #c51358;
-    --ifm-color-primary-darkest: #a20f49;
-    --ifm-color-primary-light: #eb2c77;
-    --ifm-color-primary-lighter: #ec387e;
-    --ifm-color-primary-lightest: #ef5b95;
-  }
-  
-  
-  @import url('https://fonts.googleapis.com/css?family=Barlow:800&display=swap');
-  
-  .hover-link {
-      position: relative;
-      display: inline-block;
-      font-size: 2em;
-      font-weight: 800;
-      color: royalblue;
-      overflow: hidden;
-      background: linear-gradient(to right, midnightblue, midnightblue 50%, royalblue 50%);
-      background-clip: text;
-      -webkit-background-clip: text; 
-      -webkit-text-fill-color: transparent;
-      background-size: 200% 100%; 
-      background-position: 100%; 
-      transition: background-position 275ms ease;
-      text-decoration: none; 
-  }
-  
-  .hover-link:hover {
-      background-position: 0 100%; 
-  }
-  
-  #wp {
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    border: 0;
-  }
-  
-  div#__docusaurus_skipToContent_fallback {
-    display: grid;
-  }
-  
-  iframe {
-    width: 100%;
-    height: 100%;
-  }
+  --ifm-color-primary: #eb2c77;
+  --ifm-code-font-size: 95%;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #e81668;
+  --ifm-color-primary-dark: #d1145e;
+  --ifm-color-primary-darker: #c51358;
+  --ifm-color-primary-darkest: #a20f49;
+  --ifm-color-primary-light: #eb2c77;
+  --ifm-color-primary-lighter: #ec387e;
+  --ifm-color-primary-lightest: #ef5b95;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Barlow:800&display=swap');
+
+.hover-link {
+    position: relative;
+    display: inline-block;
+    font-size: 2em;
+    font-weight: 800;
+    color: royalblue;
+    overflow: hidden;
+    background: linear-gradient(to right, midnightblue, midnightblue 50%, royalblue 50%);
+    background-clip: text;
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%; 
+    background-position: 100%; 
+    transition: background-position 275ms ease;
+    text-decoration: none; 
+}
+
+.hover-link:hover {
+    background-position: 0 100%; 
+}
+
+#wp {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+div#__docusaurus_skipToContent_fallback {
+  display: grid;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
