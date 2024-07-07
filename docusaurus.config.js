@@ -20,9 +20,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fredgraybealsd', // Usually your GitHub org/user name.
+  organizationName: 'fredgraybealSD', // Usually your GitHub org/user name.
   projectName: 'sd-docusaurus', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
