@@ -9,9 +9,9 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://fredgraybealsd.github.io",
   "baseUrl": "/sd-docusaurus/",
-  "organizationName": "fredgraybealsd",
+  "organizationName": "fredgraybealSD",
   "projectName": "sd-docusaurus",
-  "deploymentBranch": "main",
+  "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -303,6 +303,13 @@ export default {
         }
       ]
     },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -319,13 +326,6 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
-    },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
     },
     "liveCodeBlock": {
       "playgroundPosition": "bottom"
