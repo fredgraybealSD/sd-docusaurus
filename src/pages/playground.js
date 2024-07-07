@@ -14,7 +14,7 @@ export default function Playground() {
 	}, []);
 
 	const themeZipUrl =
-		'https://raw.githubusercontent.com/SD-performance/sd-site-performance/playground-files/wordpress-playground.zip';
+		'https://raw.githubusercontent.com/fredgraybealSD/sd-docusaurus/gh-pages/playground-files/wordpress-playground.zip';
 
 	return (
 		<Layout
