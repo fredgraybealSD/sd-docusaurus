@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/sd-docusaurus/markdown-page",
+  "source": "@site/src/pages/markdown-page.md",
+  "title": "Markdown page example",
+  "description": "Tabs",
+  "frontMatter": {
+    "title": "Markdown page example"
+  },
+  "unlisted": false
+}

@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/sd-docusaurus/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/sd-docusaurus/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/sd-docusaurus/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "performance-basics/Accessibility",
+              "path": "/sd-docusaurus/docs/performance-basics/Accessibility",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "performance-basics/Best-Practices",
+              "path": "/sd-docusaurus/docs/performance-basics/Best-Practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "performance-basics/Performance",
+              "path": "/sd-docusaurus/docs/performance-basics/Performance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "performance-basics/SEO",
+              "path": "/sd-docusaurus/docs/performance-basics/SEO",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/baseline-assessment",
+              "path": "/sd-docusaurus/docs/category/baseline-assessment",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/sd-docusaurus/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

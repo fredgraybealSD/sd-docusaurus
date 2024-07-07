@@ -1,0 +1,27 @@
+{
+  "id": "performance-basics/Best-Practices",
+  "title": "Best Practices",
+  "description": "- Assesses adherence to general web development best practices, including security aspects, browser compatibility, and code quality.",
+  "source": "@site/docs/performance-basics/Best-Practices.md",
+  "sourceDirName": "performance-basics",
+  "slug": "/performance-basics/Best-Practices",
+  "permalink": "/sd-docusaurus/docs/performance-basics/Best-Practices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/performance-basics/Best-Practices.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Accessibility",
+    "permalink": "/sd-docusaurus/docs/performance-basics/Accessibility"
+  },
+  "next": {
+    "title": "SEO",
+    "permalink": "/sd-docusaurus/docs/performance-basics/SEO"
+  }
+}
